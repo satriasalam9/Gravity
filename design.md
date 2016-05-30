@@ -1,7 +1,5 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
-category: "design"
-tagline: "it's all about perception."
----
+-title: SIF UIN SUSKA 
+url: http//sif.uinsuska.ac.id/
+
